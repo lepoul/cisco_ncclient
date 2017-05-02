@@ -1,6 +1,6 @@
 import logging
-import cisco_client.operations
-import cisco_client.transport
+import cisco_ncclient.operations
+import cisco_ncclient.transport
 
 
 logging.basicConfig(level=logging.INFO)
