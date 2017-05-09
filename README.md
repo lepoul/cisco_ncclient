@@ -3,9 +3,9 @@
 This is a simple NETCONF over SSHv2 client for the CISCO IOS. 
 Only the edit-config RPC is provided, and get-config works with "show run" command over plain SSH.
 
-## High level API
+## manager
 
-The cisco_ncclient.manager provides high level use of the client. 
+The cisco_ncclient.manager class provides high level use of the client. 
 
 ## Uses
 
